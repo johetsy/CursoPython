@@ -7,3 +7,11 @@ isStudent = True
 
 print(edad, sueldo, nombre, isStudent)
 
+numero_1 = 1
+numero_2 = 3
+numero_3 = 15
+resultado = ((numero_1 * numero_2) + 100) / numero_3
+print(((numero_1 * numero_2) + 100) / numero_3)
+potencia =15**3
+sumando = potencia + numero_3
+print(sumando)
