@@ -1,7 +1,7 @@
 # Escriba un programa que calcule el máximo común
 # divisor entre dos números enteros.
 # usaré la función math de la libreria de python
-# gcd =greatest common divisor
+# gcd =greatest commun divisor
 
 import math
 
