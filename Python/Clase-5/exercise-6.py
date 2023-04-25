@@ -30,6 +30,7 @@ def cantAgua(cap_lav, cant_ropa):
     elif tipo_ropa == "nylon" or tipo_ropa == "poliester":
         fact_agua = 1.05
     else:
+
         print("Solo se puede lavar ropa de tipo algodón, nylon o poliester")
         fact_agua = 0
     cant_agua = cap_lav * fact_agua * cant_ropa

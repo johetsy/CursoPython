@@ -16,7 +16,6 @@ while table <= 9:
     table += 1
     num -= 9
 
-
 # -----------------utilizando for----------------
 # print('\n-----Tablas de Multiplicar-----')
 
